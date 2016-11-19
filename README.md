@@ -1,2 +1,8 @@
 # Ubiquitöus®
 <i><b>"</b>There is no better designer than nature.<b>"</b></i> — Alexander McQueen.
+<p><kbd>t</kbd>&nbsp;<kbd>esc</kbd><br/>
+<h3>Howdy<i>!</i></h3>
+<p align="justify">I'm <a target="_blank" title="HomePage" href="http://prabhatkumar.org/">Prabhat Kumar</a> — CEO, Founder &amp; Principal Scientist of <a target="_blank" title="Company" href="http://sequomics.com/">Sequømics</a> Corporation.</p>
+<p align="justify">I'm not only scientist, mathematician, engineer, design thinker and core innovator; also administrator, environmentalist, humanitarian and social activist — <i>working to bring innovations as well as great possibilities into the human life.</i><br/><br/>I'm also very passionate about invention and innovation through Research and Discovery activity. I have active involvement mainly in Algorithms, Data Science, Machine Learning, NLP (Natural Language Processing), Predictive Analytics, Data Visualisation, Scientific Computing, as well as in Information &amp; Technical Architecture, providing best software solutions through commitments.<br/><br/>I have dedicated my entire professional and personal orientation toward developing myself into not only being the best possible “scientist” I can be, but being one step ahead of the curve at all times.</p>
+<p align="justify">I have been in software development since mid-year of 2001. During these years of my work, I have been developed several projects for companies as well as open-source(s); and list is going-on...</p>
+<p align="justify">This is a list of <i>open source</i> projects I have <i>created, maintained or actively contributed</i> to:—</p>
