@@ -1,0 +1,9 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+# Thumbnails
+._*
+*.sublime-workspace
+logs
+*.log
+*.temp
