@@ -8,3 +8,4 @@
 <p align="justify">This is a list of <i>open source</i> projects I have <i>created, maintained or actively contributed</i> to:—</p>
 <h2 align="left">Personal</h2>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/iamprabhat">iamprabhat</a> — (<i>author</i>) — my personal homepage (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/academic">academic</a> — (<i>author</i>) — an academic work of prabhat kumar (source code).</p>
