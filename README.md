@@ -10,3 +10,4 @@
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/iamprabhat">iamprabhat</a> — (<i>author</i>) — my personal homepage (source code).</p>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/academic">academic</a> — (<i>author</i>) — an academic work of prabhat kumar (source code).</p>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/vitae">vitaé</a> — (<i>author</i>) — a curriculum vitae of prabhat kumar (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/writing">writing</a> — (<i>author</i>) — thoughts of prabhat kumar (source code).</p>
