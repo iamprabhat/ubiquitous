@@ -12,4 +12,5 @@
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/vitae">vitaé</a> — (<i>author</i>) — a curriculum vitae of prabhat kumar (source code).</p>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/writing">writing</a> — (<i>author</i>) — thoughts of prabhat kumar (source code).</p>
 <h2 align="left">Academic</h2>
-<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/capstone">capstone</a> — (<i>author</i>) — capstone®: a next-word prediction application. (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/capstone">capstone</a> — (<i>author</i>) — capstone®: a next-word prediction application (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/d3-start-up">d3-start-up</a> — (<i>author</i>) — d3-start-up®: a ready to go scaffolding to work on d3.js (source code).</p>
