@@ -15,3 +15,4 @@
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/capstone">capstone</a> — (<i>author</i>) — capstone®: a next-word prediction application (source code).</p>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/d3-start-up">d3-start-up</a> — (<i>author</i>) — d3-start-up®: a ready to go scaffolding to work on d3.js (source code).</p>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/d3-houses">d3-houses</a> — (<i>author</i>) — d3-houses®: a visual analysis of ratio of median house price to median earnings (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/d3-olympics">d3-olympics</a> — (<i>author</i>) — d3-olympics®: a visual analysis of olympics games (source code).</p>
