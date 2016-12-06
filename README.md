@@ -18,3 +18,4 @@
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/iamprabhat/d3-olympics">d3-olympics</a> — (<i>author</i>) — d3-olympics®: a visual analysis of olympics games (source code).</p>
 <h2 align="left">Scientific</h2>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/MeltXpert/MeltXpert">MeltXpert</a> — (<i>author</i>) — MeltXpert®: Improved Nucleic Acid homo &amp; hetero duplexes thermal behavior analysis program (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/AFPDB/AFPDB">AFPDB</a> — (<i>author</i>) — AFPDB®: A manually curated dedicated database of Antifreeze Proteins (source code).</p>
