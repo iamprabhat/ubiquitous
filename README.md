@@ -19,3 +19,4 @@
 <h2 align="left">Scientific</h2>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/MeltXpert/MeltXpert">MeltXpert</a> — (<i>author</i>) — MeltXpert®: Improved Nucleic Acid homo &amp; hetero duplexes thermal behavior analysis program (source code).</p>
 <p align="justify"><a target="_blank" title="Source Code" href="https://github.com/AFPDB/AFPDB">AFPDB</a> — (<i>author</i>) — AFPDB®: A manually curated dedicated database of Antifreeze Proteins (source code).</p>
+<p align="justify"><a target="_blank" title="Source Code" href="https://github.com/AIPKB/AIPKB">AIPKB</a> — (<i>author</i>) — AIPKB®: A manually curated dedicated database of Aluminum-induced Proteins (source code).</p>
